@@ -1,0 +1,9 @@
+レポート課題：日本の近代化について
+
+明治維新（1868年）以降、日本は急速に近代化を進めた。本課題では、以下の観点から論じなさい。
+
+1. 殖産興業政策が産業構造に与えた影響
+2. 学制の公布と教育制度の変化
+3. 不平等条約の改正に向けた外交努力
+
+字数は2000字程度とし、参考文献を明記すること。This is a long English sentence to check that word wrapping works correctly with mixed Japanese and English text in the same paragraph.
